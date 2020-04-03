@@ -101,6 +101,16 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "copperbeardytwitch",
+      "name": "Copperbeardy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/53055058?v=4",
+      "profile": "https://www.twitch.tv/copperbeardy",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
