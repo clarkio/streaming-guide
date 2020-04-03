@@ -11,7 +11,35 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/3685876?v=4",
       "profile": "https://lannonbr.com",
       "contributions": [
-        "ideas"
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "wwsean08",
+      "name": "Sean Smith",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/839261?v=4",
+      "profile": "https://wwsean08.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "pranav-29",
+      "name": "Pranav Goel",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48860494?v=4",
+      "profile": "https://github.com/Pranav-29",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "toefrog",
+      "name": "Chris Gargotta",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1122675?v=4",
+      "profile": "https://toefrog.github.io/Blog/",
+      "contributions": [
+        "doc"
       ]
     }
   ],
