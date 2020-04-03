@@ -3,6 +3,12 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 A comprehensive guide to getting into streaming (mostly for programming)
+<br>
+
+⚠ This is a living set of documentation, meaning it's currently being written and actively updated ⚠
+
+
+
 
 ## Contributors ✨
 
