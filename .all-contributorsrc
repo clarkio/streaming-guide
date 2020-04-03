@@ -131,6 +131,16 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "nightshadedude",
+      "name": "Eric Landeis",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17286651?v=4",
+      "profile": "https://github.com/Nightshadedude",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
