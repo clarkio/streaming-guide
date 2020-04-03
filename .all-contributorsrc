@@ -81,6 +81,16 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "FabioRosado",
+      "name": "Fábio Rosado",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3131401?v=4",
+      "profile": "https://fabiorosado.dev",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
