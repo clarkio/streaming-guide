@@ -121,6 +121,16 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "EyLuismi",
+      "name": "Luis Miguel Díaz Abril",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10482936?v=4",
+      "profile": "https://eyluismi.com",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
