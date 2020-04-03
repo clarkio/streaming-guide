@@ -61,6 +61,16 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "jfeliweb",
+      "name": "Jean Felisme",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1755639?v=4",
+      "profile": "http://jeanfelis.me",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
