@@ -1,6 +1,6 @@
 # streaming-guide
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 A comprehensive guide to getting into streaming (mostly for programming)
 <br>
@@ -30,6 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.geekyboy.com"><img src="https://avatars0.githubusercontent.com/u/284451?v=4" width="100px;" alt=""/><br /><sub><b>Adam Culp</b></sub></a><br /><a href="#ideas-adamculp" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=adamculp" title="Documentation">📖</a></td>
     <td align="center"><a href="https://fabiorosado.dev"><img src="https://avatars0.githubusercontent.com/u/3131401?v=4" width="100px;" alt=""/><br /><sub><b>Fábio Rosado</b></sub></a><br /><a href="#ideas-FabioRosado" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=FabioRosado" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/blowfishfugu"><img src="https://avatars2.githubusercontent.com/u/47995334?v=4" width="100px;" alt=""/><br /><sub><b>blowfishfugu</b></sub></a><br /><a href="#ideas-blowfishfugu" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=blowfishfugu" title="Documentation">📖</a></td>
   </tr>
 </table>
 
