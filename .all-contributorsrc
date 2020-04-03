@@ -32,6 +32,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "toefrog",
+      "name": "Chris Gargotta",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1122675?v=4",
+      "profile": "https://toefrog.github.io/Blog/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
