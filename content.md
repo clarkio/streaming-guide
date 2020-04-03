@@ -28,3 +28,9 @@ General streaming Advice
     - have a secrets/brb/some scene to hide your screen when working with any passwords, api keys, etc.
   - Consider using a VPN
 
+### Visibility
+
+EyLuismi: something interesting maybe is to zoom text or different parts of the screen, don't know if you have talked about it
+
+  - making the content visible on small screens and not just large screens
+    - think mobile app or browser
