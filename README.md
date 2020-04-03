@@ -1,6 +1,6 @@
 # streaming-guide
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 A comprehensive guide to getting into streaming (mostly for programming)
 <br>
@@ -32,6 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://fabiorosado.dev"><img src="https://avatars0.githubusercontent.com/u/3131401?v=4" width="100px;" alt=""/><br /><sub><b>Fábio Rosado</b></sub></a><br /><a href="#ideas-FabioRosado" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=FabioRosado" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/blowfishfugu"><img src="https://avatars2.githubusercontent.com/u/47995334?v=4" width="100px;" alt=""/><br /><sub><b>blowfishfugu</b></sub></a><br /><a href="#ideas-blowfishfugu" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=blowfishfugu" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.twitch.tv/copperbeardy"><img src="https://avatars0.githubusercontent.com/u/53055058?v=4" width="100px;" alt=""/><br /><sub><b>Copperbeardy</b></sub></a><br /><a href="#ideas-copperbeardytwitch" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=copperbeardytwitch" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://vaibhavchatarkar.com"><img src="https://avatars1.githubusercontent.com/u/1468518?v=4" width="100px;" alt=""/><br /><sub><b>vaibhav</b></sub></a><br /><a href="#ideas-da-vaibhav" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=da-vaibhav" title="Documentation">📖</a></td>
   </tr>
 </table>
 
