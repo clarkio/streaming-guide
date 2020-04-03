@@ -13,7 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://lannonbr.com"><img src="https://avatars2.githubusercontent.com/u/3685876?v=4" width="100px;" alt=""/><br /><sub><b>Benjamin Lannon</b></sub></a><br /><a href="#ideas-lannonbr" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://lannonbr.com"><img src="https://avatars2.githubusercontent.com/u/3685876?v=4" width="100px;" alt=""/><br /><sub><b>Benjamin Lannon</b></sub></a><br /><a href="#ideas-lannonbr" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=lannonbr" title="Documentation">📖</a></td>
   </tr>
 </table>
 
