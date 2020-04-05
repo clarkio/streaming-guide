@@ -171,6 +171,16 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "lemueldls",
+      "name": "Lemuel De Los Santos",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26912197?v=4",
+      "profile": "http://localhost:5000",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,

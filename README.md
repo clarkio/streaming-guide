@@ -1,6 +1,6 @@
 # streaming-guide
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A comprehensive guide to getting into streaming (mostly for programming)
@@ -51,6 +51,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/opti21"><img src="https://avatars3.githubusercontent.com/u/40129778?v=4" width="100px;" alt=""/><br /><sub><b>opti21</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=opti21" title="Documentation">📖</a> <a href="#ideas-opti21" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://www.codephobia.com"><img src="https://avatars1.githubusercontent.com/u/6385224?v=4" width="100px;" alt=""/><br /><sub><b>Martin Raymond</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=codephobia" title="Documentation">📖</a> <a href="#ideas-codephobia" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/archification"><img src="https://avatars0.githubusercontent.com/u/25619582?v=4" width="100px;" alt=""/><br /><sub><b>archification</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=archification" title="Documentation">📖</a> <a href="#ideas-archification" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://localhost:5000"><img src="https://avatars0.githubusercontent.com/u/26912197?v=4" width="100px;" alt=""/><br /><sub><b>Lemuel De Los Santos</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=lemueldls" title="Documentation">📖</a> <a href="#ideas-lemueldls" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
