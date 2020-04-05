@@ -5,3 +5,5 @@
 
 ## Human Mods
 - People that help foster the atmosphere and environment you want in your stream/chat
+
+## Trolls

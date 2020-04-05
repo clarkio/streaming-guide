@@ -2,12 +2,23 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 A comprehensive guide to getting into streaming (mostly for programming)
 <br>
 
 ⚠ This is a living set of documentation, meaning it's currently being written and actively updated ⚠
 
+This is by no means a set of hard rules that must be followed but instead a community driven set of suggestions and guidance for streaming
 
+# Table of Contents
+
+1. [Requirements](requirements.md)
+2. [Software](software.md)
+3. Configure software for broadcasting
+   1. Get your stream key or login to you streaming service via the software (if available)
+4. [Setting up your stream layout]()
+   1. What scenes should I have?
+   2. What should be in each scene?
 
 
 ## Contributors ✨

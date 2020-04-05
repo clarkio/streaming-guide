@@ -4,8 +4,16 @@
 
 What do I stream?
 
-General streaming Advice
+### Focus
+Think about what you enjoy doing most. What is it that you're most interested in? Whatever that is then it could be something to try out doing on stream!
 
+
+## Interaction
+Folks are kind enough to join your stream and on top of that send messages to you in chat so be sure to acknowledge them
+
+## General Streaming Advice
+
+- Confirm the type of stream atmosphere you want to create
 - Patience
 - Just be yourself
 - Keep it simple
@@ -17,13 +25,14 @@ General streaming Advice
     - 2 hours for live streaming
     - 30 mins for post stream decompress
 - Stream things you're interested in
-  -  if you stream things you're not into you'll lose interest in streaming all together and/or it'll feel more like a chore than fun
+  - if you stream things you're not into you'll lose interest in streaming all together and/or it'll feel more like a chore than fun
 - Make your viewers a high priority
+- Listen to feedback from your viewers
 
 ## Advice While Streaming
 
 ### Security
-  - [15:26] da_vaibhav: and turn notifications off or create new user on your OS
+  - Turn notifications off or create new user on your OS
     - use a different browser or browser profile to avoid accidentally doxxing yourself
     - have a secrets/brb/some scene to hide your screen when working with any passwords, api keys, etc.
   - Consider using a VPN
