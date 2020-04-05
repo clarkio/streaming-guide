@@ -1,6 +1,6 @@
 # streaming-guide
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A comprehensive guide to getting into streaming (mostly for programming)
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/opti21"><img src="https://avatars3.githubusercontent.com/u/40129778?v=4" width="100px;" alt=""/><br /><sub><b>opti21</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=opti21" title="Documentation">📖</a> <a href="#ideas-opti21" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://www.codephobia.com"><img src="https://avatars1.githubusercontent.com/u/6385224?v=4" width="100px;" alt=""/><br /><sub><b>Martin Raymond</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=codephobia" title="Documentation">📖</a> <a href="#ideas-codephobia" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
