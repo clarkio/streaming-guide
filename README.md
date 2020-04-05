@@ -1,6 +1,6 @@
 # streaming-guide
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A comprehensive guide to getting into streaming (mostly for programming)
@@ -46,6 +46,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://vaibhavchatarkar.com"><img src="https://avatars1.githubusercontent.com/u/1468518?v=4" width="100px;" alt=""/><br /><sub><b>vaibhav</b></sub></a><br /><a href="#ideas-da-vaibhav" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=da-vaibhav" title="Documentation">📖</a></td>
     <td align="center"><a href="https://eyluismi.com"><img src="https://avatars1.githubusercontent.com/u/10482936?v=4" width="100px;" alt=""/><br /><sub><b>Luis Miguel Díaz Abril</b></sub></a><br /><a href="#ideas-EyLuismi" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=EyLuismi" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Nightshadedude"><img src="https://avatars3.githubusercontent.com/u/17286651?v=4" width="100px;" alt=""/><br /><sub><b>Eric Landeis</b></sub></a><br /><a href="#ideas-nightshadedude" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/clarkio/streaming-guide/commits?author=nightshadedude" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/opti21"><img src="https://avatars3.githubusercontent.com/u/40129778?v=4" width="100px;" alt=""/><br /><sub><b>opti21</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=opti21" title="Documentation">📖</a> <a href="#ideas-opti21" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 

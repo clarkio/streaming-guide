@@ -141,6 +141,16 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "opti21",
+      "name": "opti21",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/40129778?v=4",
+      "profile": "https://github.com/opti21",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
