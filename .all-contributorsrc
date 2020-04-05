@@ -181,6 +181,16 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "matthewkosloski",
+      "name": "Matthew Kosloski",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1219553?v=4",
+      "profile": "http://mtk.me",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
