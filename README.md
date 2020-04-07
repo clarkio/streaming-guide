@@ -14,11 +14,15 @@ This is by no means a set of hard rules that must be followed but instead a comm
 
 1. [Requirements](requirements.md)
 2. [Software](software.md)
-3. Configure software for broadcasting
-   1. Get your stream key or login to you streaming service via the software (if available)
-4. [Setting up your stream layout]()
-   1. What scenes should I have?
-   2. What should be in each scene?
+3. [Software Setup](setup.md)
+   1. Configuration/Settings
+   2. Stream layout
+      1. scenes, sources, camera, mic, etc.
+4. [Testing Your Stream](testing.md)
+5. [What do I stream?]()
+6. [Go Live]()
+   1. How to handle viewer engagement like comments, questions, etc. while continuing the goal of the stream?
+7. [Moderation]()
 
 
 ## Contributors ✨
