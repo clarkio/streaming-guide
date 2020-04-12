@@ -141,6 +141,76 @@
         "ideas",
         "doc"
       ]
+    },
+    {
+      "login": "opti21",
+      "name": "opti21",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/40129778?v=4",
+      "profile": "https://github.com/opti21",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "codephobia",
+      "name": "Martin Raymond",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6385224?v=4",
+      "profile": "http://www.codephobia.com",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "archification",
+      "name": "archification",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25619582?v=4",
+      "profile": "https://github.com/archification",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "lemueldls",
+      "name": "Lemuel De Los Santos",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26912197?v=4",
+      "profile": "http://localhost:5000",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "matthewkosloski",
+      "name": "Matthew Kosloski",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1219553?v=4",
+      "profile": "http://mtk.me",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "therealpygon",
+      "name": "therealpygon",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10392148?v=4",
+      "profile": "https://github.com/therealpygon",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "AlliDoisCode1234",
+      "name": "AlliDoisCode1234",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/31934921?v=4",
+      "profile": "https://github.com/AlliDoisCode1234",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
