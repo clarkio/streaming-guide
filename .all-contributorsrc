@@ -211,6 +211,16 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "captcalli",
+      "name": "Caroline Kerns",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/48072006?v=4",
+      "profile": "https://captcalli.dev/",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,

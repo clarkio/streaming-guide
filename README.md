@@ -1,6 +1,6 @@
 # Streaming Guide
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A comprehensive guide to getting into streaming (mostly for programming)
@@ -59,6 +59,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://mtk.me"><img src="https://avatars2.githubusercontent.com/u/1219553?v=4" width="100px;" alt=""/><br /><sub><b>Matthew Kosloski</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=matthewkosloski" title="Documentation">📖</a> <a href="#ideas-matthewkosloski" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/therealpygon"><img src="https://avatars1.githubusercontent.com/u/10392148?v=4" width="100px;" alt=""/><br /><sub><b>therealpygon</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=therealpygon" title="Documentation">📖</a> <a href="#ideas-therealpygon" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/AlliDoisCode1234"><img src="https://avatars1.githubusercontent.com/u/31934921?v=4" width="100px;" alt=""/><br /><sub><b>AlliDoisCode1234</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=AlliDoisCode1234" title="Documentation">📖</a> <a href="#ideas-AlliDoisCode1234" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://captcalli.dev/"><img src="https://avatars2.githubusercontent.com/u/48072006?v=4" width="100px;" alt=""/><br /><sub><b>Caroline Kerns</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=captcalli" title="Documentation">📖</a> <a href="#ideas-captcalli" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
