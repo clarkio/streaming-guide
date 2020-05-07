@@ -5,7 +5,6 @@
 
 A comprehensive guide to getting into streaming (mostly for programming)
 <br>
-<br>
 
 ⚠ This is a living set of documentation, meaning it's currently being written and actively updated ⚠
 
