@@ -1,6 +1,6 @@
 # Streaming Guide
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A comprehensive guide to getting into streaming (mostly for programming)
@@ -62,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://captcalli.dev/"><img src="https://avatars2.githubusercontent.com/u/48072006?v=4" width="100px;" alt=""/><br /><sub><b>Caroline Kerns</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=captcalli" title="Documentation">📖</a> <a href="#ideas-captcalli" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/RascalTwo"><img src="https://avatars0.githubusercontent.com/u/9403665?v=4" width="100px;" alt=""/><br /><sub><b>Rascal_Two</b></sub></a><br /><a href="https://github.com/clarkio/streaming-guide/commits?author=RascalTwo" title="Documentation">📖</a></td>
   </tr>
 </table>
 

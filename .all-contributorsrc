@@ -221,6 +221,15 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "RascalTwo",
+      "name": "Rascal_Two",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9403665?v=4",
+      "profile": "https://github.com/RascalTwo",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
