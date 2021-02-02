@@ -6,10 +6,14 @@ The following are the minimum requirements for starting a basic stream for codin
 1. An account on the platform you want to stream
 1. Decent internet upload speed
    1. Recommend at least 5 Mbps upload
-   1. More guidance from Twitch on this [encoding doc](https://stream.twitch.tv/encoding/)
+   1. More encoding guidance
+      - Twitch [encoding doc](https://stream.twitch.tv/encoding/)
+      - YouTube [encoding doc](https://support.google.com/youtube/answer/2907883)
    1. Hard wire with ethernet cable to your network is better than wireless connection
 1. Computer
-   1. Specs?
+   1. General Specifications
+      - CPU: Dual Core CPU
+      - RAM: 4GB of RAM
 1. Microphone
    1. Built-in microphone is fine in the beggining
 2. Camera (Recommended but optional)
@@ -21,7 +25,16 @@ The following are the minimum requirements for starting a basic stream for codin
 
 
 ## Intermediate Streaming Guidance
-higher-end external camera and mic
-lighting
-greenscreen
-audio mixing
+1. Lighting
+   - Umbrella
+   - Key Lights
+   - RGB Lights
+1. Higher-end external camera and mic
+   - Mirrorless
+   - DSLR
+   - GoPro
+1. Audio Mixing (software or hardware)
+   - Examples
+      - Software: Voicemeeter
+      - Hardware: GoXLR
+1. Greenscreen
