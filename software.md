@@ -5,25 +5,25 @@ There's a lot of different options out there so we'll attempt to list the option
 If you just want to get a quick layout together and start streaming as soon as possible then see the recommendation that:
 
   ### Windows
-  - TwitchStudio
+  - [TwitchStudio](https://www.twitch.tv/broadcast/studio)
 
   ### macOS
-  - Lightstream?
+  - [Streamyard](https://streamyard.com/)
 
   ### Linux
-  - Lightstream?
+  - [Streamyard](https://streamyard.com/)
 
 ## (Opinionated) Recommendations for Intermediate/Advanced Streamers
 If you want more control over your stream in how it's set up the see the recommendation below for your platform:
 
 ### Windows
-- OBS
+- [OBS/OBS Studios/Open Broadcaster Software](https://obsproject.com/)
 
 ### macOS
-- OBS
+- [OBS/OBS Studios/Open Broadcaster Software](https://obsproject.com/)
 
 ### Linux
-- OBS
+- [OBS/OBS Studios/Open Broadcaster Software](https://obsproject.com/)
 
 ## All Software Options
 Below is a list of all known options for each platform and some feature/capabilities for each one
