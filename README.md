@@ -6,9 +6,9 @@
 A comprehensive guide to getting into streaming (mostly for programming)
 <br>
 
-⚠ This is a living set of documentation, meaning it's currently being written and actively updated ⚠
+⚠ This is a living set of documentation, meaning it's subject to updates/changes/additions ⚠
 
-This is by no means a set of hard rules that must be followed but instead a community driven set of suggestions and guidance for streaming
+This is by no means a set of hard rules that must be followed but instead a community driven set of suggestions and guidance for streaming. If you have advice or ideas to share please consider opening an issue and/or pull request to contribute it 🙂👍
 
 ## Table of Contents
 
