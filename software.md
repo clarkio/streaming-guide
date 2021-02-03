@@ -41,7 +41,7 @@ Below is a list of all known options for each platform and some feature/capabili
 - [Wirecast](https://www.telestream.net/wirecast/)
 
 
-### Online Solutions
+### Online/Cloud Solutions
 - [Lightstream](https://golightstream.com/)
 - [Streamyard](https://streamyard.com/)
 - [Restream Studio](https://restream.io/live-studio)
