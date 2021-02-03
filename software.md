@@ -1,7 +1,7 @@
 # Streaming Software
 There's a lot of different options out there so we'll attempt to list the options here (per platform aka operating system) and their pros/cons. The recommendation below are an opinionated set of recommendations so your experience may vary and may prefer one of the other options that are available.
 
-## Recommendations for Beginners
+## Beginner Recommendations
 If you just want to get a quick layout together and start streaming as soon as possible then see the recommendation that:
 
   ### Windows
@@ -13,7 +13,7 @@ If you just want to get a quick layout together and start streaming as soon as p
   ### Linux
   - [Streamyard](https://streamyard.com/)
 
-## Recommendations for Intermediate/Advanced Streamers
+## Intermediate/Advanced Recommendations
 If you want more control over your stream in how it's set up the see the recommendation below for your platform:
 
 ### Windows
