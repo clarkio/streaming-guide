@@ -49,14 +49,14 @@ Below is a list of all known options for each platform and some feature/capabili
 
 ### Features and Support
 
-|                         | Cost | Cross-platform | Customizable | Record Locally | Export/Save Settings | Multi-Profile Support | Plugins | External API   | Themeable | Stream Key/Login |
-| ----------------------- | ---- | -------------- | ------------ | -------------- | -------------------- | --------------------- | ------- | -------------- | --------- | --------------- |
-| OBS                     | Free | All            | Highly       | Yes            | Yes                  | Yes                   | Yes     | Yes via Plugin | Yes       | Both |
-| TwitchStudio            | Free | Windows        | Somewhat     | ?              | ?                    | ?                     | ?       | ?              | ?         | Login |
-| SLOBS                   | Free | Windows/Mac    | Somewhat     | ?              | ?                    | ?                     | ?       | ?              | ?         | ? |
-| XSplit                  | Paid | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? |
-| StreamElements OBS.Live | Free | Windows        | Highly       | Yes            | Yes                  | Yes                   | Yes     | Yes via Plugin | Yes       | ? |
-| Wirecast                |      | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? |
-| Lightstream             | Web  | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? |
-| Streamyard              | Web  | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? |
-| Restream Studio         | Web  | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? |
+|                         | Cost | Cross-platform | Customizable | Record Locally | Export/Save Settings | Multi-Profile Support | Plugins | External API   | Themeable | Stream Key/Login | Captions |
+| ----------------------- | ---- | -------------- | ------------ | -------------- | -------------------- | --------------------- | ------- | -------------- | --------- | --------------- | ---------- |
+| OBS                     | Free | All            | Highly       | Yes            | Yes                  | Yes                   | Yes     | Yes via Plugin | Yes       | Both | Yes via Plugin |
+| TwitchStudio            | Free | Windows        | Somewhat     | ?              | ?                    | ?                     | ?       | ?              | ?         | Login | ? |
+| SLOBS                   | Free | Windows/Mac    | Somewhat     | ?              | ?                    | ?                     | ?       | ?              | ?         | ? | ? |
+| XSplit                  | Paid | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? | ? |
+| StreamElements OBS.Live | Free | Windows        | Highly       | Yes            | Yes                  | Yes                   | Yes     | Yes via Plugin | Yes       | ? | ? |
+| Wirecast                |      | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? | ? |
+| Lightstream             | Web  | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? | ? |
+| Streamyard              | Web  | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? | No |
+| Restream Studio         | Web  | ?              | ?            | ?              | ?                    | ?                     | ?       | ?              | ?         | ? | ? |
