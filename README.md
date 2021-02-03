@@ -12,6 +12,7 @@ This is by no means a set of hard rules that must be followed but instead a comm
 
 ## Table of Contents
 
+1. [Why Stream?](why-stream.md)
 1. [Requirements](requirements.md)
 2. [Software](software.md)
 3. [Software Setup](setup.md)
