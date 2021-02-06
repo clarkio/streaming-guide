@@ -12,19 +12,19 @@ This is by no means a set of hard rules that must be followed but instead a comm
 
 ## Table of Contents
 
-1. [Why Stream?](why-stream.md)
-1. [Requirements](requirements.md)
-1. [Software](software.md)
-1. [Software Setup](setup.md)
+1. [Why Stream?](./docs/why-stream.md)
+1. [Requirements](./docs/requirements.md)
+1. [Software](./docs/software.md)
+1. [Software Setup](./docs/setup.md)
    1. Configuration/Settings
    1. Stream layout
       1. scenes, sources, camera, mic, etc.
-1. [Testing Your Stream](testing.md)
-1. [What do I stream?](content.md)
+1. [Testing Your Stream](./docs/testing.md)
+1. [What do I stream?](./docs/content.md)
 1. [TODO: Go Live]()
    1. How to handle viewer engagement like comments, questions, etc. while continuing the goal of the stream?
-1. [Moderation](moderation.md)
-1. [Fears](fears.md)
+1. [Moderation](./docs/moderation.md)
+1. [Fears](./docs/fears.md)
 
 
 ## Contributors ✨
